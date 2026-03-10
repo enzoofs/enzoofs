@@ -19,12 +19,20 @@
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [**tracker-88**](https://github.com/enzoofs/tracker-88) | Rastreamento logístico para 200+ pedidos/mês na Sintese — SLA, dashboard, import Excel | React, TypeScript, Supabase, N8N |
 | [**sunny**](https://github.com/enzoofs/sunny) | Interface de streaming estilo Netflix — zero dependências externas no backend | Python stdlib, Vanilla JS, HLS.js |
 | [**prospector**](https://github.com/enzoofs/prospector) | Pipeline de prospecção B2B — scraping Google Maps, scoring 0-100, sync Airtable | Python, SerpAPI, Hunter.io |
 | [**linux-learning-game**](https://github.com/enzoofs/linux-learning-game) | App gamificado pra aprender terminal Linux — skill tree, boss fights, drills | React, TypeScript |
 | [**achilles**](https://github.com/enzoofs/achilles) | Game Manager para Arch Linux com Wine/Proton | Python, CustomTkinter |
 | [**personal-assistant**](https://github.com/enzoofs/personal-assistant) | ATLAS — assistente pessoal com IA, email, calendário, hábitos | FastAPI, React Native, GPT-4o |
+
+### Projetos comerciais (repositórios privados)
+
+Alguns projetos estão em repositórios privados por conterem integrações com sistemas internos, regras de negócio e dados sensíveis de empresas reais.
+
+| Projeto | O que faz | Stack |
+|---|---|---|
+| **tracker-88** | Sistema de rastreamento logístico para 200+ pedidos/mês — SLA, dashboard, import Excel, alertas automáticos | React, TypeScript, Supabase, N8N |
+| **assessor-sintese** | Cadastro de produtos laboratoriais com IA — classificação NCM automática, lookup de preços, integração ERP Sankhya | Next.js, TypeScript, OpenAI API |
 
 ---
 
