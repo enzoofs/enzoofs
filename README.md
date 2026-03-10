@@ -22,6 +22,7 @@
 | [**sunny**](https://github.com/enzoofs/sunny) | Interface de streaming estilo Netflix — zero dependências externas no backend | Python stdlib, Vanilla JS, HLS.js |
 | [**prospector**](https://github.com/enzoofs/prospector) | Pipeline de prospecção B2B — scraping Google Maps, scoring 0-100, sync Airtable | Python, SerpAPI, Hunter.io |
 | [**linux-learning-game**](https://github.com/enzoofs/linux-learning-game) | App gamificado pra aprender terminal Linux — skill tree, boss fights, drills | React, TypeScript |
+| [**parallelogram**](https://github.com/enzoofs/parallelogram) | Wallpaper switcher para Hyprland — carrossel com filtro por cor e classificação por IA | Quickshell (QML), Python, swww |
 | [**achilles**](https://github.com/enzoofs/achilles) | Game Manager para Arch Linux com Wine/Proton | Python, CustomTkinter |
 | [**personal-assistant**](https://github.com/enzoofs/personal-assistant) | ATLAS — assistente pessoal com IA, email, calendário, hábitos | FastAPI, React Native, GPT-4o |
 
